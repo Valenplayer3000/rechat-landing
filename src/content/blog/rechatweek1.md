@@ -19,7 +19,7 @@ So I decided to add it just to guide people since they don't know what to do nex
 
 But yet, I started to implement the `Toolbar` and `Container` first, I've been doing correct way (since my brain can do it now instead doing lazy as hell)
 
-![Current implementation ](/assets/Tour.png)
+![Current implementation ](/assets/tour.png)
 This is the current version of this tour since I implemented. (But those guide is so worse than I think.)
 
 Also, if you notice those images, they were rendered in blender (yeah I made it BTW), I just waited a bit longer than expected since my laptop can run barely in some render (I hope my laptop won't melt himself while rendering)
