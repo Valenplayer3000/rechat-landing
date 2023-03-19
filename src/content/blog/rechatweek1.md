@@ -24,7 +24,7 @@ This is the current version of this tour since I implemented. (But those guide i
 
 Also, if you notice those images, they were rendered in blender (yeah I made it BTW), I just waited a bit longer than expected since my laptop can run barely in some render (I hope my laptop won't melt himself while rendering)
 
-![God, help me what I am done](/assets/godno.png)
+![God, help me what I am done](/assets/ohno.png)
 
 This thing, I've tried to make a checkmark, but it just ended badly, that why I'm *literally* almost new at blender for some reason.
 
